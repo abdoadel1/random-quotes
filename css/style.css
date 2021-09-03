@@ -1,0 +1,16 @@
+#container {
+    background-image: url('../img/2.jpg');
+    background-size: cover;
+    --bs-gutter-x: 0rem;
+}
+#main {
+    height: 50vh;
+    background-color: rgba(255, 255, 255, 0.192);
+}
+#output {
+margin-top: 13%;
+box-sizing: border-box;
+}
+#btn {
+  
+}
